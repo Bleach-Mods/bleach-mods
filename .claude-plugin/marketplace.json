@@ -1,0 +1,14 @@
+{
+  "name": "bleach-mods",
+  "owner": { "name": "bleach-mods" },
+  "metadata": {
+    "description": "Mods de Claude Code inspirados en Bleach"
+  },
+  "plugins": [
+    {
+      "name": "bankai",
+      "source": "./bankai",
+      "description": "Un Bankai animado al azar cada vez que una tarea sale bien, colección de los 20 (+1 secreto) con /bankai, y una hollowificación que avanza con el contexto usado."
+    }
+  ]
+}

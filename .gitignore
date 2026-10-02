@@ -1,0 +1,8 @@
+# Tipos que Claude Code genera al cargar el mod
+.claude-plugin/types/
+**/.claude-plugin/types/
+tsconfig.json
+node_modules/
+
+# Notas privadas para retomar el proyecto
+CONTEXTO.md

@@ -1,0 +1,15 @@
+{
+  "name": "bankai",
+  "version": "0.3.0",
+  "description": "Bleach: un Bankai animado al azar cuando una tarea sale bien, colección con /bankai, y hollowificación según el contexto usado",
+  "author": { "name": "bleach-mods" },
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "sound": {
+      "type": "boolean",
+      "title": "Sonido del corte",
+      "description": "Reproduce un 'shiiing' de espada cuando se libera un bankai",
+      "default": false
+    }
+  }
+}
